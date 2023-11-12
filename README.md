@@ -1,16 +1,17 @@
-### Hi there 👋
+### About me
 
-<!--
-**infinityofspace/infinityofspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study machine learning and intelligent systems. Moreover, I am a big fan of open source, python and self-hosting.
 
-Here are some ideas to get you started:
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=infinityofspace&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityofspace&theme=dark)
+
+### Skills
+
+- languages: Python 3, Java, C/C#/C++, HTML, JavaScript, Assembler, SQL
+- frameworks: PyTorch, TensorFlow, scikit-learn, Matplotlib, NumPy, OpenCV, DGL, flask, nginx, Android, Spring, JPA
+- tools and utilities: git, linux, docker, snap, Blender, Unity
+
+### Projects
+
+You can find some of my project highlights with a summary [here](project_highlights.md).
