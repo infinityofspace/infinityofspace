@@ -34,6 +34,22 @@ A self-hosting Alexa Skill for the media server jellyfin. It allows the playback
 
 This native C# Jellyfin plugin is the result of the jellyfin_alexa_skill project and allows a deeper integration of the Alexa Skill into Jellyfin.
 
+#### [argon2](https://github.com/infinityofspace/argon2)
+
+Argon2 is a new password hashing method that allows the parallelization and memory consumption to be adjusted through parameterization. With this project various benchmarks are carried out, such as the influence of multiprocessing and the hash length in comparison to the computing time.
+
+#### [filechain](https://github.com/infinityofspace/filechain)
+
+In this project, the basic idea of a blockchain is used for the use of files as blocks. This allows files to be stored in a decentralized manner. The protocol uses sockets for the exchange.
+
+#### [remote_minerl_env](https://github.com/infinityofspace/remote_minerl_env)
+
+The project resulted from the need to simplify and accelerate the training of an agent in the MineRl challange. The goal of the project is to start the MineRL test environment on any system as a server and to connect the training system as a client. This client-server structure via sockets makes it possible to separate the two systems and thus speed up training and testing.
+
+#### [SfmLearner-Pytorch](https://github.com/infinityofspace/SfmLearner-Pytorch)
+
+This is a fork of SfmLearner for unsupervised learning of depth and ego-motion from video for extracting the movement and depth information of a virtual agent in the mine rl challenge. See the [notebooks](https://github.com/infinityofspace/SfmLearner-Pytorch/tree/master/notebooks) for experiments and results.
+
 ---
 
 With love for open source ❤️
