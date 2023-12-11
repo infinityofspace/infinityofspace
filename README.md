@@ -8,8 +8,8 @@ I study machine learning and intelligent systems. Moreover, I am a big fan of op
 
 ### Skills
 
-- languages: Python 3, Java, C/C#/C++, HTML, JavaScript, Assembler, SQL
-- frameworks: PyTorch, TensorFlow, scikit-learn, Matplotlib, NumPy, OpenCV, DGL, flask, nginx, Android, Spring, JPA
+- languages: Python 3, Java, C/C#/C++, HTML, JavaScript, Assembly, SQL, Haskell
+- frameworks: PyTorch, TensorFlow, scikit-learn, Matplotlib, NumPy, pandas, OpenCV, DGL, flask, nginx, Android, Spring, JPA
 - tools and utilities: git, linux, docker, snap, Blender, Unity
 
 ### Projects
