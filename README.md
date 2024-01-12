@@ -1,6 +1,6 @@
 ### About me
 
-I study machine learning and intelligent systems. Moreover, I am a big fan of open source, python and self-hosting.
+I studied machine learning and intelligent systems. Moreover, I am a big fan of open source, python and self-hosting.
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=infinityofspace&theme=dark)
 
