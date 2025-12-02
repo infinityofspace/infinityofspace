@@ -4,9 +4,9 @@ I studied machine learning and intelligent systems. Working as full-time IT-admi
 
 Moreover, I am a big fan of open source, python and self-hosting.
 
-![](https://github-readme-stats.vercel.app/api?username=infinityofspace&theme=dark)
+![](https://github-readme-stats-infinityofspaces-projects.vercel.app/api?username=infinityofspace&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityofspace&theme=dark)
+![](https://github-readme-stats-infinityofspaces-projects.vercel.app/api/top-langs/?username=infinityofspace&theme=dark)
 
 ### Skills
 
