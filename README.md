@@ -1,6 +1,6 @@
 ### About me
 
-I studied machine learning and intelligent systems. Working as full-time IT-administrator/data engineer.
+I studied machine learning and intelligent systems. Working as AI Solution and Automation Engineer.
 
 Moreover, I am a big fan of open source, python and self-hosting.
 
